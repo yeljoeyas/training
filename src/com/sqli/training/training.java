@@ -14,4 +14,10 @@ public class training {
 
     }
 
+    public static String sayTwo(){
+        return "hello every one";
+
+    }
+
+
 }
