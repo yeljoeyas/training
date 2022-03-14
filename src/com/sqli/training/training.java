@@ -4,19 +4,18 @@ public class training {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        System.out.println("Aucun souci :)");
-        System.out.printf(sayHello());
+        System.out.println("Hello World!");
+        System.out.printf(sayHey());
     }
 
 
-    public static String sayHello(){
-        return "hello every one";
+    public static void sayHey(){
+        System.out.println("hello every two");
 
     }
 
     public static String sayTwo(){
         return "hello every one";
-
     }
 
 
