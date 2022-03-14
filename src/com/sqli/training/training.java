@@ -9,8 +9,8 @@ public class training {
     }
 
 
-    public static String sayHello(){
-        return "hello every ones";
+    public static void sayHello(){
+        System.out.println("hello every two");
 
     }
 
