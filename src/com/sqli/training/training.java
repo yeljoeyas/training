@@ -10,13 +10,12 @@ public class training {
 
 
     public static String sayHello(){
-        return "hello every one";
+        return "hello every ones";
 
     }
 
     public static String sayTwo(){
         return "hello every one";
-
     }
 
 
