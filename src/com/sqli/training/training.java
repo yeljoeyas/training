@@ -11,6 +11,7 @@ public class training {
 
     public static String sayHello(){
         return "hello every one";
+
     }
 
 }
