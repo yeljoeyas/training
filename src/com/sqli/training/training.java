@@ -10,7 +10,7 @@ public class training {
 
 
     public static String sayHello(){
-        int mint = 6;
+        int mint = 8;
         return "hello every one";
 
     }
