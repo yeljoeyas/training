@@ -9,7 +9,7 @@ public class training {
     }
 
 
-    public static void sayHello(){
+    public static void sayHey(){
         System.out.println("hello every two");
 
     }
